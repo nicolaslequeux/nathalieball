@@ -47,8 +47,8 @@
     .header-content-img {
         /*LOGO DE NATHALIE*/
         /*background-image: url(../img/logo/logo-landing-horizontal.svg);*/
-        background-image: url(../img/logo/logo-landing-horizontal2.png);
-        margin-right: 50px; /*compensate to the left as img not well balanced*/
+        background-image: url(../img/logo/logo-landing-horizontal4.png);
+        margin-right: 13%;  /*compensate to the left as img not well balance*/
         background-size: 100%;
         background-repeat: no-repeat;
         background-position: center center;
@@ -116,9 +116,10 @@
     }
     .header-content-img {
         /*LOGO DE NATHALIE*/
-        background-image: url(../img/logo/logo-landing-vertical2.png);
+        background-image: url(../img/logo/logo-landing-vertical4.png);
         background-size: cover;
         background-position: center center;
+        margin-top: 20px; /*leger recadrage du logo trop haut après ajout texte*/
         opacity: 1;
         width: 90vw;
         max-width: 300px;
