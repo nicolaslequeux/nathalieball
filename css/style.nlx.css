@@ -8,14 +8,14 @@
     height: 130px;
     /* border: solid 1px #e8e8e8;
     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1); */
-    padding-left: 97px;
-    padding-right: 97px;
+    padding-left: 30px;
+    padding-right: 30px;
     background: #fff
 }
 
 .brands_slider {
     height: 100%;
-    margin-top: 50px
+    margin-top: 35px;
 }
 
 .brands_item {
@@ -34,7 +34,7 @@
     -ms-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     transform: translateY(-50%);
-    padding: 5px;
+    /* padding: 5px; */
     cursor: pointer
 }
 
@@ -52,9 +52,11 @@
 }
 
 .brands_prev {
-    left: 40px
+    /* left: 40px */
+    left: 0px;
 }
 
 .brands_next {
-    right: 40px
+    /* right: 40px; */
+    right: 0px;
 }

@@ -11,7 +11,7 @@ $(document).ready(function () {
                 nav: false,
                 dots: false,
                 autoWidth: true,
-                items: 5,
+                items: 4,
                 margin: 50
             });
 
